@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[个人技术博客]]></title>
+  <link href="http://mubai1017.github.io/article/atom.xml" rel="self"/>
+  <link href="http://mubai1017.github.io/article/"/>
+  <updated>2015-09-10T15:54:14+08:00</updated>
+  <id>http://mubai1017.github.io/article/</id>
+  <author>
+    <name><![CDATA[Gavin Lin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

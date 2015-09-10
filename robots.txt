@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mubai1017.github.io/article/sitemap.xml 
